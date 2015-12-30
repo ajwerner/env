@@ -1,0 +1,5 @@
+[user]
+	email = andrew@upthere.com
+	name = andrew werner
+[http]
+	cookiefile = /disk/a/home/andrew/.gitcookies
