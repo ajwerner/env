@@ -1,5 +1,14 @@
 [user]
-	email = andrew@upthere.com
+	email = awerner32@gmail.com
 	name = andrew werner
 [http]
 	cookiefile = /disk/a/home/andrew/.gitcookies
+
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+  hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  type = cat-file -t
+  dump = cat-file -p

@@ -1,6 +1,10 @@
 /*
+
 !/.gitconfig
 !/.gitignore
+
 !/.emacs.d
+
 !/.bashrc
+!/.bash_aliases
 !/.tmux.conf
